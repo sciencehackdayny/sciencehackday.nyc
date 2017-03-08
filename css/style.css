@@ -32,7 +32,7 @@ head, body{
 }
 
 .header{
-  background-color: #ED4514;
+  background-color:#76349d;
   padding :0px;
 }
 .buttons{
@@ -54,7 +54,7 @@ section.header p,h1.white,h2.white{
 }
 
 .sched a{
-  color: #00AC9F;
+  color: #5c3474;
   font-size: 300px;
   margin: 0px;
   padding: 0px 50px 0px 0px;
@@ -78,14 +78,14 @@ section.header p,h1.white,h2.white{
 
 a.button{
   background-color: white;
-  color: #ea4624;
+  color: #76349d;
   border-radius: 3px;
   box-sizing: border-box;
   padding:10px 20px;
   text-align:center;
 }
 section.main h1,h2{
-  background-color: #FF5541;
+  background-color: #5c3474; 
   color: white;
   margin: 40px 0px;
   padding: 10px;
